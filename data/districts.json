@@ -1,0 +1,182 @@
+[
+  {
+    "district_name": "Balaghat",
+    "state": "Madhya Pradesh",
+    "claims_filed": 12500,
+    "claims_approved": 7800,
+    "pending_days_avg": 145,
+    "land_area_ha": 34500,
+    "anomaly": false,
+    "anomaly_reason": null
+  },
+  {
+    "district_name": "Dindori",
+    "state": "Madhya Pradesh",
+    "claims_filed": 9800,
+    "claims_approved": 1600,
+    "pending_days_avg": 210,
+    "land_area_ha": 28900,
+    "anomaly": true,
+    "anomaly_reason": "Approval rate below 20% and average pending days exceed 180"
+  },
+  {
+    "district_name": "Mandla",
+    "state": "Madhya Pradesh",
+    "claims_filed": 15200,
+    "claims_approved": 9700,
+    "pending_days_avg": 98,
+    "land_area_ha": 41200,
+    "anomaly": false,
+    "anomaly_reason": null
+  },
+  {
+    "district_name": "Gadchiroli",
+    "state": "Maharashtra",
+    "claims_filed": 21000,
+    "claims_approved": 18500,
+    "pending_days_avg": 60,
+    "land_area_ha": 57800,
+    "anomaly": false,
+    "anomaly_reason": null
+  },
+  {
+    "district_name": "Chandrapur",
+    "state": "Maharashtra",
+    "claims_filed": 8700,
+    "claims_approved": 1200,
+    "pending_days_avg": 240,
+    "land_area_ha": 19800,
+    "anomaly": true,
+    "anomaly_reason": "Approval rate below 20% and average pending days exceed 180"
+  },
+  {
+    "district_name": "Nashik",
+    "state": "Maharashtra",
+    "claims_filed": 13400,
+    "claims_approved": 9600,
+    "pending_days_avg": 110,
+    "land_area_ha": 32100,
+    "anomaly": false,
+    "anomaly_reason": null
+  },
+  {
+    "district_name": "Koraput",
+    "state": "Odisha",
+    "claims_filed": 17600,
+    "claims_approved": 12300,
+    "pending_days_avg": 130,
+    "land_area_ha": 46700,
+    "anomaly": false,
+    "anomaly_reason": null
+  },
+  {
+    "district_name": "Mayurbhanj",
+    "state": "Odisha",
+    "claims_filed": 19800,
+    "claims_approved": 3100,
+    "pending_days_avg": 195,
+    "land_area_ha": 52300,
+    "anomaly": true,
+    "anomaly_reason": "Approval rate below 20% and average pending days exceed 180"
+  },
+  {
+    "district_name": "Kandhamal",
+    "state": "Odisha",
+    "claims_filed": 8900,
+    "claims_approved": 6100,
+    "pending_days_avg": 75,
+    "land_area_ha": 24500,
+    "anomaly": false,
+    "anomaly_reason": null
+  },
+  {
+    "district_name": "Bastar",
+    "state": "Chhattisgarh",
+    "claims_filed": 22300,
+    "claims_approved": 16800,
+    "pending_days_avg": 88,
+    "land_area_ha": 61200,
+    "anomaly": false,
+    "anomaly_reason": null
+  },
+  {
+    "district_name": "Sarguja",
+    "state": "Chhattisgarh",
+    "claims_filed": 11200,
+    "claims_approved": 2000,
+    "pending_days_avg": 205,
+    "land_area_ha": 29800,
+    "anomaly": true,
+    "anomaly_reason": "Approval rate below 20% and average pending days exceed 180"
+  },
+  {
+    "district_name": "Kanker",
+    "state": "Chhattisgarh",
+    "claims_filed": 9400,
+    "claims_approved": 6900,
+    "pending_days_avg": 102,
+    "land_area_ha": 21700,
+    "anomaly": false,
+    "anomaly_reason": null
+  },
+  {
+    "district_name": "Khammam",
+    "state": "Telangana",
+    "claims_filed": 10600,
+    "claims_approved": 7400,
+    "pending_days_avg": 118,
+    "land_area_ha": 26900,
+    "anomaly": false,
+    "anomaly_reason": null
+  },
+  {
+    "district_name": "Adilabad",
+    "state": "Telangana",
+    "claims_filed": 14200,
+    "claims_approved": 2500,
+    "pending_days_avg": 188,
+    "land_area_ha": 38400,
+    "anomaly": true,
+    "anomaly_reason": "Approval rate below 20% and average pending days exceed 180"
+  },
+  {
+    "district_name": "Wayanad",
+    "state": "Kerala",
+    "claims_filed": 6300,
+    "claims_approved": 4900,
+    "pending_days_avg": 65,
+    "land_area_ha": 15200,
+    "anomaly": false,
+    "anomaly_reason": null
+  },
+  {
+    "district_name": "Udalguri",
+    "state": "Assam",
+    "claims_filed": 7800,
+    "claims_approved": 1100,
+    "pending_days_avg": 175,
+    "land_area_ha": 18600,
+    "anomaly": true,
+    "anomaly_reason": "Approval rate below 20% (14%)"
+  },
+  {
+    "district_name": "West Singhbhum",
+    "state": "Jharkhand",
+    "claims_filed": 16900,
+    "claims_approved": 11400,
+    "pending_days_avg": 140,
+    "land_area_ha": 44300,
+    "anomaly": false,
+    "anomaly_reason": null
+  },
+  {
+    "district_name": "Gumla",
+    "state": "Jharkhand",
+    "claims_filed": 9100,
+    "claims_approved": 1500,
+    "pending_days_avg": 220,
+    "land_area_ha": 22900,
+    "anomaly": true,
+    "anomaly_reason": "Approval rate below 20% and average pending days exceed 180"
+  }
+]
